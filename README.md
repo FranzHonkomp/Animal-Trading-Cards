@@ -6,5 +6,5 @@ Layout is fixed and should not be changed in order to keep it simple.
 Dowload all items and double click on the "card.html" file.
 
 # Creat your own animal trading card
-Open the card.html file on github and change the dscribed animal with your favorite one.
-Add a great picture to your reqository and share it the maybe soon upcoming animal tradings card community :)
+Open the card.html file on github and change the described animal with your favorite one.
+Add a great picture to your reqository and share it in the maybe soon upcoming animal trading cards community :)
