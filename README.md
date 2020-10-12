@@ -1,4 +1,10 @@
-# Animal-Trading-Cards
+## Table of Contents
+
+* [Description](#description)
+* [Instructions](#instructions)
+* [Contributing](#contributing)
+
+#description
 This is a starting point for a great new kind of sharing digital cards of your favortite animal
 Layout is fixed and should not be changed in order to keep it simple.
 
