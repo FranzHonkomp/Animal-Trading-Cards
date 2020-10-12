@@ -1,0 +1,28 @@
+/* add your CSS here */
+.box{
+  padding: 10px;
+  border:1px solid grey;
+  border-radius: 0.1cm;
+  width:300px;
+}
+.infobox{
+  padding: 10px;
+  border:1px solid grey;
+  border-radius: 0.1cm;
+  width:280px;
+}
+#fact{
+  font-style: italic;
+}
+span{
+  font-weight: bold;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+img{
+  border:1px solid grey;
+  border-radius: 0.1cm;
+}
