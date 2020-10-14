@@ -14,3 +14,6 @@ Dowload all items and double click on the "card.html" file.
 ## Contributing
 Open the card.html file on github and change the described animal with your favorite one.
 Add a great picture to your reqository and share it in the maybe soon upcoming animal trading cards community :)
+
+## Showroom
+
