@@ -3,6 +3,7 @@
 * [Description](#description)
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+* [Showroom](#showroom)
 
 ## Description
 This is a starting point for a great new kind of sharing digital cards of your favortite animal
@@ -16,4 +17,5 @@ Open the card.html file on github and change the described animal with your favo
 Add a great picture to your reqository and share it in the maybe soon upcoming animal trading cards community :)
 
 ## Showroom
+http://htmlpreview.github.io/?https://github.com/FranzHonkomp/Animal-Trading-Cards/blob/main/card.html
 
